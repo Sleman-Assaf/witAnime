@@ -1,0 +1,150 @@
+body{
+    background-color: #0b0c2a;
+}
+header{
+    background-color: #070720;
+}
+.white-color{
+    color: #fff;
+}
+.color-white a{
+    color: #fff !important;
+}
+.dropdown-menu a{
+    color: black !important;
+}
+.ulCoustom li{
+  /*  padding-left: 80px;*/
+}
+.activeMenue{
+    background-color: #e53637;
+ 
+}
+.hero-text{
+    position: absolute;
+padding-left: 2rem;
+    top:55%
+}
+.hero-text h1{
+    max-width: 550px;
+    color: #fff;
+
+}
+.hero-text p{
+    color: #fff;
+}
+.btn-primary{
+    background-color: #e53637;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-weight: 600;
+}
+.btn-primary-sub{
+    background-color: #e53637;
+        color: #fff;
+        border: none;
+        padding: 12px 8px;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+       margin-left: 2px;
+       vertical-align: middle;
+       text-align: center;
+}
+.boutton a{
+    color: #fff;
+    
+    text-decoration: none;
+
+}
+.trendingNow{
+    border-left: 4px solid #e53637;
+}
+.card-container{
+    width: 220px;
+    height: 325px;
+   background-image: url("img/trending/One_Piece\,_Volume_61_Cover_\(Japanese\).jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+ 
+    border-radius: 10px;
+}
+.card-container2{
+
+    width: 220px;
+        height: 325px;
+        background-image: url("img/trending/NarutoCoverTankobon1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        border-radius: 10px;
+}
+.card-container3 {
+
+    width: 220px;
+    height: 325px;
+    background-image: url("img/trending/black.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border-radius: 10px;
+}
+.wiide{
+width: 420px;
+height: 210px;
+    background-image: url("img/trending/black.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+border-radius: 12px;
+
+}
+.commemntDiv .photo{
+    width: 100px;
+    height: 145px;
+background-image: url("img/trending/black.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+
+}
+.commemntDiv{
+    display: flex;
+   
+    align-items: center;
+}
+.commemntDiv .text{
+    max-width: 200px;
+    color: #fff;
+    font-weight: 700;
+    margin-left: 13px;
+}
+.commemntDiv .text h3{
+    margin-top: 15px;
+    font-size: 12px;
+    color: #b0b0b0;
+}
+.navlist{
+list-style-type: none;
+
+
+}
+.navlist li{
+    margin-right: 16px;
+}
+.navlist a{
+    text-decoration: none;
+color: #b7b7b7;
+}
+.copyRight{
+    max-width: 260px;
+    color: #b7b7b7;
+}
+footer{
+    background-color: #070720;
+
+    padding: 50px;
+}
